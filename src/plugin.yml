@@ -1,0 +1,9 @@
+name: Boop
+version: 1.0
+author: CarnageLTK
+main: Main.Main
+api-version: 1.14
+commands:
+  boop:
+    description: Boops someone
+    usage: /<command> <Player>
